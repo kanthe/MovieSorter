@@ -1,0 +1,6 @@
+1¤Sci-Fi¤Matrix¤1999¤2,11¤"What is the Matrix?!"¤Computers¤Far future¤
+2¤Historic¤Braveheart¤1995¤2,51¤"You can take our lives but you can't take away our Freedom!!"¤War¤William Wallace¤1200¤
+3¤Drama¤Will Hunting¤1995¤2,2¤"I'm gonna see about a girl."¤
+6¤Historic¤Gladiator¤2000¤2,22¤What you do in life echoes in eternity!¤Biography¤Maximus¤-100¤
+8¤Sci-Fi¤Alien¤1979¤1,52¤In space no one can hear you scream.¤Aliens¤Far future¤
+9¤Sci-Fi¤Independence day¤1998¤2,27¤"Welcome to Earth!"¤Aliens¤Near future¤
